@@ -1,2 +1,13 @@
 # Mobile-app-Development-
 The craze of mobile apps doesn’t seem to hold any time soon. These tiny software applications are inspiring a growing number of people to develop their own app. If you too are one of them, you will certainly need the guidance and consultation of an expert app development company. 
+A professional developer will begin your project from the scratch. Here are the 4 important points an expert developer considers before beginning the project: 
+Planning the process
+You may have an idea in your mind but it needs a proper planning before being developed as an app. Idea defines goal and the path you will reach to a conclusion. Without a proper definition to your idea, development will turn out to be a cumbersome task. A professional app development company begins defining the idea with a detailed research on similar apps. It then analyzes the idea for several things such as how these apps have been performing; how users have reviewed them and; how many downloads they have received so far. Then it tries to discover the weakest areas where improvements can be done in your app. 
+The development company will also help you decide whether the app should be free or paid. It depends on the type of app; like a useful utility tool can be provided as a free version with limited features and a paid version with all features enabled. Same applies on games. It’s suggested that you keep a game app free and make money via ads or in-app purchase method. 
+Idea formation
+A professional firm will certainly evaluate your idea for its uniqueness and, if it does not fit to be, the firm will treat it to be so. It’s the second important thing developer will do for you. Often time clients already have an app in mind and they want to make it look like that. But building a copy of existing app isn’t a unique approach. A real developer will give you its own inputs to make your idea unique even if it’s based on an existing app. 
+Deciding on your target audience
+This is a crucial aspect to consider. If you don’t know who your audience is, you will hardly be able to attain your goal. There may be more than one ways to decide the target audience. Depends on the objects to be fulfilled by your app, the parameters deciding your target-audience include platform preference, age, geography, business-users, etc. 
+Designing and Coding Phase
+In most cases, clients have some design in mind. But if it’s not, a professional app development company is also able to create app designs. It can suggests you more than one designs for your app and leave it on your to choose one of them or make corrections. Software firms use a rich toolset to create app designs.
+Once the design is approved, the coding phase begins. 
